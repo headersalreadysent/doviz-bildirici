@@ -32,7 +32,7 @@ module.exports = [
 	["ARS", "Arjantin Pesosu"],
 	["ALL", "Arnavutluk Leki"],
 	["AZN", "Azerbaycan Manatı"],
-	["BAM", "Bosna", "Hersek Markı"],
+	["BAM", "Bosna, Hersek Markı"],
 	["CLP", "Şili Pesosu"],
 	["COP", "Kolombiya Pesosu"],
 	["CRC", "Kostarika Kolonu"],
