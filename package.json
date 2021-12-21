@@ -3,14 +3,14 @@
 		"google-tts-api": "^2.0.2",
 		"nodejs-fetch": "^1.0.0"
 	},
-	"name": "dolar-bildirici",
+	"name": "dovix-bildirici",
 	"version": "1.0.0",
-	"main": "say.js",
+	"main": "index.js",
 	"devDependencies": {},
 	"scripts": {
-		"run": "node say.js"
+		"start": "node index.js"
 	},
-	"author": "",
+	"author": "headersalreadysent",
 	"license": "ISC",
 	"description": ""
 }
