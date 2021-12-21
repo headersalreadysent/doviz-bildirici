@@ -5,7 +5,7 @@ Anlık değişen dolar kurlarını sesli olarak takip etmek için küçük bir u
 
 ## Kurulum
 
-Repoyu clonelayın
+Repoyu clonelayın ve bağımlılıkları yükleyin.
 
 ```bash
 git clone https://github.com/headersalreadysent/doviz-bildirici.git
