@@ -1,0 +1,16 @@
+{
+	"dependencies": {
+		"google-tts-api": "^2.0.2",
+		"nodejs-fetch": "^1.0.0"
+	},
+	"name": "dolar-bildirici",
+	"version": "1.0.0",
+	"main": "say.js",
+	"devDependencies": {},
+	"scripts": {
+		"run": "node say.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"description": ""
+}
