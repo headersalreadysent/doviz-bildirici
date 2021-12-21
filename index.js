@@ -41,7 +41,7 @@ const getData = () => {
 		for (let i in json[0]) {
 			let element = json[0][i];
 			if (element.code == queryType) {
-				buying = element.buying;
+				buying = element.selling;
 			}
 		}
 		if (buying == null) {
